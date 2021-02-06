@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "id": 1000,
+      "name": "Cancha Baskett",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1001,
+      "name": "Cancha Futbol",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1002,
+      "name": "Cancha Futsal",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1003,
+      "name": "Cancha Wally",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1004,
+      "name": "Cancha Tenis",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1005,
+      "name": "Cancha Raquet",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1006,
+      "name": "Cancha Voleibol",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1007,
+      "name": "Cancha Beisbol",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    }
+  ]
+}
