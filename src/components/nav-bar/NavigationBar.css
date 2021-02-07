@@ -1,0 +1,7 @@
+.navbar-dark {
+  margin-bottom: 32px;
+}
+.App-logo-bar {
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+}
