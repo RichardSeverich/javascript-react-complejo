@@ -115,12 +115,6 @@ https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.h
   <img src="documentation/booking-registry-select-date.jpg">
 </p>
 
-#### Select Date
-
-<p align="center">
-  <img src="documentation/booking-registry-select-date.jpg">
-</p>
-
 #### Registry Hours
 
 <p align="center">
