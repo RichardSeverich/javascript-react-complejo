@@ -15,6 +15,7 @@ const Form = (props) => {
     name: "",
   }
 
+  const [isRegistry] = useState(props.isRegistry);
   const [user] = useState(props.user);
   const [bookingDate] = useState(props.bookingDate);
   const [arrayBookings] = useState(props.arrayBookings);
@@ -31,6 +32,7 @@ const Form = (props) => {
       pathname: path,
       state: {
         dateReserve: bookingDate,
+        isRegistry
       }
     })   
   };
