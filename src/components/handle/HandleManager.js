@@ -3,6 +3,7 @@ import handleGetRequest from "./api/HandleGetRequest";
 import handleAddRequest from "./api/HandleAddRequest";
 import handleEditRequest from "./api/HandleEditRequest";
 import handleDeleteRequest from "./api/HandleDeleteRequest";
+import handleGetWithBodyRequest from "./api/HandleGetWithBodyRequest";
 // MOCK
 import handleGetMock from "./mock/HandleGetMock";
 import handleAddMock from "./mock/HandleAddMock";
@@ -37,6 +38,12 @@ let handleDelete = handleDeleteMock;
 if(isMockDisable){
   handleDelete = handleDeleteRequest;
 }
+// GET WITH BODY
+const handleGetWithBody = (endpoint, body, callback) => {
+  isMockDisable 
+  ? handleGetWithBodyRequest(endpoint, body, callback) 
+  : handleGetMock(endpoint, callback);
+};
 
 export {
   handleGet,
@@ -44,4 +51,5 @@ export {
   handleEdit,
   handleEditNavigate,
   handleDelete,
+  handleGetWithBody
 }

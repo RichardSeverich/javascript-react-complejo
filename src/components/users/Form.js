@@ -28,7 +28,6 @@ const Form = (props) => {
   const [isEdit, setIsEdit] = useState(props.location.state);
   const [colorFormText, setColorFormText] = useState(colorFormReset);
 
-  console.log("isEdit " + isEdit);
   let id = isEdit ? isEdit.data.id : "";
   let username = isEdit ? isEdit.data.username : "";
   let password = isEdit ? isEdit.data.password : "";
@@ -57,7 +56,7 @@ const Form = (props) => {
   const { value: valueType, bind: bindType, reset: resetType } = useInput(type);
   const optionsType = [
     { value: "admin", content: "Administrador" },
-    { value: "instructor", content: "instructor" }
+    { value: "client", content: "cliente" }
   ]
 
   const handleReset = () => {

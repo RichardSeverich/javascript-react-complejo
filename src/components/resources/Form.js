@@ -12,29 +12,32 @@ const Form = (props) => {
 
   const colorFormReset = {
     name: "",
+    priceHour: "",
   }
-  
+
   const [isEdit, setIsEdit] = useState(props.location.state);
   const [colorFormText, setColorFormText] = useState(colorFormReset);
 
-  console.log("isEdit " + isEdit);
   let id = isEdit ? isEdit.data.id : "";
   let name = isEdit ? isEdit.data.name : "";
+  let priceHour = isEdit ? isEdit.data.priceHour : "";
 
   const { value: valueName, bind: bindName, reset: resetName } = useInput(name);
+  const { value: valuePriceHour, bind: bindPriceHour, reset: resetPriceHour } = useInput(priceHour);
 
   const handleReset = () => {
     resetName();
+    resetPriceHour();
   }
 
   const handleAdd = () => {
     const username = window.localStorage.getItem("username");
     let body = {
       name: valueName,
+      priceHour: valuePriceHour,
       createdBy: username,
       updatedBy: username,
     }
-    console.log(colorFormText);
     let isValid = handleValidations(body, setColorFormText, colorFormReset);
     if(isValid){
       if(isEdit) {
@@ -62,6 +65,13 @@ const Form = (props) => {
                 minLength="3"
                 maxLength="30"
                 bind={bindName}
+              ></FormInput>
+              <FormInput
+                labelContent={i18n.resourceForm.formLabelPriceHour} 
+                formText={i18n.resourceForm.formTextPriceHour}
+                color={colorFormText.priceHour}
+                minLength="2"
+                bind={bindPriceHour}
               ></FormInput>
               <div className="text-center">
                 <button

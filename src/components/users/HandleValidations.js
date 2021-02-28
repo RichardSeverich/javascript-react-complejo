@@ -33,7 +33,7 @@ const handleValidations = (data, setColorFormText, colorFormReset) => {
   } if(!(data.email.length>=3 && data.email.length<=30)){
     isValid = false;
     newColorFormText.email = dangerText;
-  } if(!(data.type==="admin" || data.type==="instructor")){
+  } if(!(data.type==="admin" || data.type==="client")){
     isValid = false;
     newColorFormText.type = dangerText;
   } if(!/^[0-9]+$/.test(data.dni)){

@@ -24,6 +24,15 @@ const getTableModel = (navigateForm, handleEdit, handleDelete) => {
       }
     },
     {
+      dataField: 'priceHour',
+      text: i18n.resourceTable.headerPriceHour,
+      sort: true,
+      filter: textFilter(),
+      headerStyle: {
+        width: '160px'
+      }
+    },
+    {
       dataField: 'creationDate',
       text: i18n.resourceTable.headerCreationDate,
       sort: true,

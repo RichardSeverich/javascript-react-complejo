@@ -1,0 +1,324 @@
+{
+  "avaliableHours": [
+    {
+      "id": 1000,
+      "name": "5:00-5:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1001,
+      "name": "5:30-6:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1002,
+      "name": "6:00-6:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1003,
+      "name": "6:30-7:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1004,
+      "name": "7:00-7:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1005,
+      "name": "7:30-8:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1006,
+      "name": "8:00-8:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1007,
+      "name": "8:30-9:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1008,
+      "name": "9:00-9:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1009,
+      "name": "9:30-10:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1010,
+      "name": "10:00-10:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1011,
+      "name": "10:30-11:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1012,
+      "name": "11:00-11:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1013,
+      "name": "11:30-12:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1014,
+      "name": "12:00-12:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1015,
+      "name": "12:30-13:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1016,
+      "name": "13:00-13:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1017,
+      "name": "13:30-14:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1018,
+      "name": "14:00-14:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1019,
+      "name": "14:30-15:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1020,
+      "name": "15:00-15:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1021,
+      "name": "15:30-16:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1022,
+      "name": "16:00-16:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1023,
+      "name": "16:30-17:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1024,
+      "name": "17:00-17:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1025,
+      "name": "17:30-18:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1026,
+      "name": "18:00-18:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1027,
+      "name": "18:30-19:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1028,
+      "name": "19:00-19:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1029,
+      "name": "19:30-20:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1030,
+      "name": "20:00-20:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1031,
+      "name": "20:30-21:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1032,
+      "name": "21:00-21:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1033,
+      "name": "21:30-22:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1034,
+      "name": "22:00-22:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1035,
+      "name": "22:30-23:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1036,
+      "name": "23:00-23:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1037,
+      "name": "23:30-00:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1038,
+      "name": "00:00-00:30",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    },
+    {
+      "id": 1039,
+      "name": "00:30-01:00",
+      "creationDate": "2020-10-16 22:46:43",
+      "updateDate": "2021-10-20 12:46:43",
+      "createdBy": "admin",
+      "updatedBy": "micky"
+    }
+  ]
+}

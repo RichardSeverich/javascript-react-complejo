@@ -9,3 +9,11 @@ body{
 .card-body-table {
   overflow-x: auto;
 }
+
+.space-bottom {
+  margin-bottom: 16px;
+}
+
+.card-header{
+  width: auto;
+}

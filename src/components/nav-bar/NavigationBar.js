@@ -15,21 +15,38 @@ const NavigationBar = () => {
   const navigateUsersTable = () => { history.push("/users-table");}
   const navigateResourcesForm = () => { history.push("/resources-form");}
   const navigateResourcesTable = () => { history.push("/resources-table");}
-  const navigateBookingsForm = () => { history.push("/");}
-  const navigateBookingsTable = () => { history.push("/");}
-  const navigateReportUsers = () => { history.push("/");}
-  const navigateReportResources = () => { history.push("/");}
-  const navigateReportBookings= () => { history.push("/");}
+  const navigateBookingsForm = () => { history.push({
+    pathname: "/bookings-resources",
+    state: { 
+      isRegistry: true,
+    }
+  })};
+  const navigateBookingsTable = () => { history.push({
+    pathname: "/bookings-resources",
+    state: { 
+      isRegistry: false,
+    }
+  })};
+  const navigateBillsForm = () => { history.push({
+    pathname: "/bills-date",
+    state: { 
+      isRegistry: true,
+    }
+  })}
+  const navigateBillsTable = () => { history.push({
+    pathname: "/bills-date",
+    state: { 
+      isRegistry: false,
+    }
+  });}
+  const navigateReportRevenue = () => { history.push("/");}
   const navigateSystem= () => { history.push("/");}
   const navigateLogin = () => { history.push("/login");}
   const btnUsers = arrayBuilder.getArrayAdmin(navigateUsersForm, navigateUsersTable);
   const btnResources = arrayBuilder.getArrayAdmin(navigateResourcesForm, navigateResourcesTable);
   const btnBookings = arrayBuilder.getArrayAdmin(navigateBookingsForm, navigateBookingsTable);
-  const btnReports = arrayBuilder.getArrayReports(
-    navigateReportUsers, 
-    navigateReportResources,
-    navigateReportBookings
-  );
+  const btnBills = arrayBuilder.getArrayBill(navigateBillsForm, navigateBillsTable);
+  const btnReports = arrayBuilder.getArrayReports(navigateReportRevenue);
   const btnOptions = arrayBuilder.getArrayOptions(navigateSystem, navigateLogin)
 
   return (
@@ -52,6 +69,11 @@ const NavigationBar = () => {
         <ButtonGroup
           buttonGroupTitle={i18n.navBar.groupButtonsBookings}
           buttonsArray={btnBookings}
+        >
+        </ButtonGroup>
+        <ButtonGroup
+          buttonGroupTitle={i18n.navBar.groupButtonsBills}
+          buttonsArray={btnBills}
         >
         </ButtonGroup>
         <ButtonGroup
