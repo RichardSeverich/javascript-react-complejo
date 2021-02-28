@@ -3,6 +3,7 @@
     {
       "id": 1000,
       "name": "Cancha Baskett",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -11,6 +12,7 @@
     {
       "id": 1001,
       "name": "Cancha Futbol",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -19,6 +21,7 @@
     {
       "id": 1002,
       "name": "Cancha Futsal",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -27,6 +30,7 @@
     {
       "id": 1003,
       "name": "Cancha Wally",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -35,6 +39,7 @@
     {
       "id": 1004,
       "name": "Cancha Tenis",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -43,6 +48,7 @@
     {
       "id": 1005,
       "name": "Cancha Raquet",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -51,6 +57,7 @@
     {
       "id": 1006,
       "name": "Cancha Voleibol",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",
@@ -59,6 +66,7 @@
     {
       "id": 1007,
       "name": "Cancha Beisbol",
+      "priceHour": "50Bs",
       "creationDate": "2020-10-16 22:46:43",
       "updateDate": "2021-10-20 12:46:43",
       "createdBy": "admin",

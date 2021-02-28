@@ -14,23 +14,25 @@ const getArrayAdmin = (navigateForm, navigateTable) => {
  return buttonsArrayUsers;
 }
 
-const getArrayReports = (
-  navigateReportUsers, 
-  navigateReportResources,
-  navigateReportBookings
-  ) => {
+const getArrayBill = (navigateBillsForm, navigateBillsTable) => {
+  const buttonsArrayBills= [
+    {
+      navigate: navigateBillsForm,
+      ButtonContent: i18n.navBar.buttonForm
+    },
+    {
+      navigate: navigateBillsTable,
+      ButtonContent: i18n.navBar.buttonTable
+    }
+  ]
+ return buttonsArrayBills;
+}
+
+const getArrayReports = (navigateReportRevenue) => {
   const buttonsArrayReports= [
     {
-      navigate: navigateReportUsers,
-      ButtonContent: i18n.navBar.buttonReportUsers
-    },
-    {
-      navigate: navigateReportResources,
-      ButtonContent: i18n.navBar.buttonReportResources
-    },
-    {
-      navigate: navigateReportBookings,
-      ButtonContent: i18n.navBar.buttonReportBookings
+      navigate: navigateReportRevenue,
+      ButtonContent: i18n.navBar.buttonReportRevenue
     }
   ]
  return buttonsArrayReports;
@@ -52,6 +54,7 @@ const getArrayOptions = (navigateSystem, navigateLogin) => {
 
 const arrayBuilder = {
   getArrayAdmin,
+  getArrayBill,
   getArrayReports,
   getArrayOptions
 }

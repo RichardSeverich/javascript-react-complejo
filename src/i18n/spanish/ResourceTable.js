@@ -4,6 +4,7 @@ const i18n = {
   tableExportButton: "Exportar a CSV",
   headerId: "Id",
   headerName: "Nombre",
+  headerPriceHour: "Precio por Hora",
   headerCreationDate: "Fecha de creacion",
   headerModificationDate: "Fecha de modificacion",
   headerCreatedBy: "Creado por",

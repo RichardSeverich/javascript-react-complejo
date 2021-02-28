@@ -1,0 +1,224 @@
+{
+    "billDetail": [
+      {
+        "id": 1000,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "5:00-6:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1001,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "6:00-7:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1002,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "7:00-8:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1003,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "8:00-9:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1004,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "9:00-10:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1005,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "10:00-11:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1006,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "11:00-12:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1007,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "12:00-13:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1008,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "13:00-14:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1009,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "14:00-15:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1010,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "15:00-16:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1011,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "16:00-17:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1012,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "17:00-18:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1013,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "18:00-19:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1014,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "19:00-20:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1015,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "20:00-21:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1016,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "21:00-22:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1017,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "22:00-23:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1018,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "23:00-00:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      },
+      {
+        "id": 1019,
+        "comments": "reservado para micky",
+        "resourceName": "Cancha Baskett",
+        "priceHour": "50",
+        "hoursIntervalName": "00:00-01:00",
+        "creationDate": "2020-10-16 22:46:43",
+        "updateDate": "2021-10-20 12:46:43",
+        "createdBy": "admin",
+        "updatedBy": "micky"
+      }
+    ]
+  }
