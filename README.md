@@ -48,7 +48,8 @@ In the project directory, you can run:
 ```
 npm start
 ```
-2. Enter with
+#### Login Mock Data And API
+1. Enter with
 ```
 username: admin
 password: admin123
