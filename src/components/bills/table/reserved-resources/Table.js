@@ -51,6 +51,7 @@ const Table = (props) => {
       user={user}
       arrayBookings={arrayData}
       bookingDate={dateReserve}
+      isRegistry={isRegistry}
     />
     }
   }

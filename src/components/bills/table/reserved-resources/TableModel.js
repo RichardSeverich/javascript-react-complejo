@@ -5,8 +5,6 @@ import i18n from "./../../../../i18n/i18n";
 const getTableModel = (handleDelete, isRegistry) => {
 
   const deleteBillDetail = () => {
-    console.log("isRegistry");
-    console.log(isRegistry);
     if(!(isRegistry)){
       return {
           dataField: 'delete',
