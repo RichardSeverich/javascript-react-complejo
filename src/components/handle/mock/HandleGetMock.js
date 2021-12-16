@@ -26,6 +26,9 @@ const handleGetMock = (endpoint, callback) => {
       case "bills/filter-date/":
           callback(mockData.arrayBill);
           break;
+      case "reports-revenue/":
+          callback(mockData.arrayReports);
+          break;
     default:
       callback(mockData.arrayUsers);
   }

@@ -28,11 +28,11 @@ const getArrayBill = (navigateBillsForm, navigateBillsTable) => {
  return buttonsArrayBills;
 }
 
-const getArrayReports = (navigateReportRevenue) => {
+const getArrayReports = (navigateReportYear) => {
   const buttonsArrayReports= [
     {
-      navigate: navigateReportRevenue,
-      ButtonContent: i18n.navBar.buttonReportRevenue
+      navigate: navigateReportYear,
+      ButtonContent: i18n.navBar.buttonReportYear
     }
   ]
  return buttonsArrayReports;
