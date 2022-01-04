@@ -18,6 +18,7 @@ import BillsUsers from "./components/bills/table/users/Table"
 import BillsResources from "./components/bills/table/reserved-resources/Table";
 import BillsFilter from "./components/bills/table/bills/Table"
 import BillsResourcesByBill from "./components/bills/table/reserved-resources/Table"
+import RevenueYear from "./components/reports/RevenueYear"
 
 const AppRoutes = () => (
   <App>
@@ -37,6 +38,7 @@ const AppRoutes = () => (
       <Route exact path="/bills-date-bills" component={BillsFilter}/>
       <Route exact path="/bills-date-bills-resources" component={BillsResourcesByBill}/>
       <Route exact path="/login" component={Login} />
+      <Route exact path="/revenue-per-year" component={RevenueYear} />
       <Route exact path="/" component={Login} />
       <Route component={Login} />
     </Switch>

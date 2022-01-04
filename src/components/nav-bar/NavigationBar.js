@@ -39,14 +39,14 @@ const NavigationBar = () => {
       isRegistry: false,
     }
   });}
-  const navigateReportRevenue = () => { history.push("/");}
+  const navigateReportYear = () => { history.push("/revenue-per-year");}
   const navigateSystem= () => { history.push("/");}
   const navigateLogin = () => { history.push("/login");}
   const btnUsers = arrayBuilder.getArrayAdmin(navigateUsersForm, navigateUsersTable);
   const btnResources = arrayBuilder.getArrayAdmin(navigateResourcesForm, navigateResourcesTable);
   const btnBookings = arrayBuilder.getArrayAdmin(navigateBookingsForm, navigateBookingsTable);
   const btnBills = arrayBuilder.getArrayBill(navigateBillsForm, navigateBillsTable);
-  const btnReports = arrayBuilder.getArrayReports(navigateReportRevenue);
+  const btnReports = arrayBuilder.getArrayReports(navigateReportYear);
   const btnOptions = arrayBuilder.getArrayOptions(navigateSystem, navigateLogin)
 
   return (
