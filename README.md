@@ -182,6 +182,27 @@ https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.h
   <img src="documentation/bill-show-delete-bill-detail.jpg">
 </p>
 
+### Show Reports Revenue
+
+#### Select Year
+
+<p align="center">
+  <img src="documentation/report-revenue-select-year.jpg">
+</p>
+
+#### View Table
+
+<p align="center">
+  <img src="documentation/report-revenue-table-view.jpg">
+</p>
+
+#### View Grafic
+
+<p align="center">
+  <img src="documentation/report-revenue-grafic-view.jpg">
+</p>
+
+
 ## Contributing
 
 1. Fork it!

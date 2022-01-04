@@ -6,7 +6,7 @@ import resourceTable from "./spanish/ResourceTable"
 import messages from "./spanish/Messages"
 import common from "./spanish/Common"
 import hoursTable from "./spanish/HoursTable"
-import reportsRevenueDate from "./spanish/ReportsRevenueDate"
+import reportsRevenueForm from "./spanish/ReportsRevenueForm"
 import reportsRevenueTable from "./spanish/ReportsRevenueTable"
 import billsForm from "./spanish/BillsForm"
 import billsTable from "./spanish/BillsTable"
@@ -20,7 +20,7 @@ const i18n = {
   messages,
   hoursTable,
   common,
-  reportsRevenueDate,
+  reportsRevenueForm,
   reportsRevenueTable,
   billsForm,
   billsTable
